@@ -39,6 +39,14 @@ These features enable loosely coupled systems that are resilient, manageable, an
 
 Although cloud computing offers potential cost-saving benefits such as pay-as-you-go pricing models and reduced capital expenditure, it is still essential for companies to assess their specific requirements to evaluate the cost implications against the benefits and services offered in order to implement strategies to optimize cost effectively.
 
+There are a few (but not limited to) these various factors:
+
+1. **Data Transfer and Storage Costs**: Cloud providers often charge for data transfer and storage, and when companies design their architecture and implement data storage strategies to minimize costs, such as using object storage or tiered storage solutions.
+
+2. **Vendor Lock-In**: Locking into a single cloud provider may limit flexibility and negotiation power, potentially leading to higher costs in the long-term. With this in mind, companies might want to consider and opt for multi-cloud or hybrid cloud strategies to avoid vendor lock-in.
+
+3. **License Management**: Some software licenses may incur additional costs when deployed in the cloud, therefore companies should carefully manage software licenses and explore options for cost-effective licensing models.
+
 
 # Scenario Challenges
 
