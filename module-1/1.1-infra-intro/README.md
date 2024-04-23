@@ -1,4 +1,6 @@
-![Migration to cloud image](https://www.influentialsoftware.com/wp-content/uploads/2022/07/Cloud-migration-influentialsoftware.png)
+<p align="center">
+  <img width="100%" height="100%" src="https://www.influentialsoftware.com/wp-content/uploads/2022/07/Cloud-migration-influentialsoftware.png">
+</p>
 
 # Brief
 Migration to cloud is not a trivial work. It involves detailed analysis in migrating large set of data, complex softwares, and sophisticated IT processes from one place to another. In this assignment, we were grouped in 3 to research on the given challenges and provide the best solutions they could garner.
