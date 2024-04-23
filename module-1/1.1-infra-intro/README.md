@@ -15,18 +15,27 @@ Migration to cloud is not a trivial work. It involves detailed analysis in migra
 
 ### 1. What is Application Modernization?
 
+![Application Modernization](https://www.veritis.com/wp-content/uploads/2020/09/application-modernization-process-strategy-veritis.jpg)
+
 It is the process of updating and upgrading legacy software applications to align with modern computing technologies and business needs. This is driven by the need to keep pace with everchanging technological advancements, meet changing business requirements, and stay competitive in the digital age. 
 
 Some aspects of application modernization include architecture modernization, cloud migration, containerization and orchestration, legacy code refactoring, UX enhancement, integration with APIs and services, security and compliance and continuous integration and delivery (CI/CD).
 
-When we modernize an application, we could add additional features such as APIs. 
+When we modernize an application, we could add additional features such as APIs. We can also employ some DevOps practises such as implementing an automating pipeline which will automate the running and testing of the code before proceeding with the automated deployment of the service. 
 
 ### 2. What is cloud native application?
 
-It is a type of software application that is specifically designed and built to leverage the advantages of cloud computing in various cloud environments such as public, private and hybrid.  
+![Cloud Native Application](https://www.oracle.com/a/ocom/img/rc24-cloud-native-evolution.jpg)
 
+The term cloud native refers to the concept of building and running applications to take advantage of the distributed computing offered by the cloud delivery model. Cloud native apps are designed and built to exploit the scale, elasticity, resiliency, and flexibility the cloud provides.
+
+It is a type of software application that is specifically designed and built to leverage the advantages of cloud computing such as moving from a monolithic application architecture to using microservices.
+
+These features enable loosely coupled systems that are resilient, manageable, and observable. They allow engineers to make high-impact changes frequently and with minimal effort.
 
 ### 3. Does moving to cloud automatically grant a company the benefits of cloud(e.g. cost savings)?
+
+![Cloud Cost Savings](https://www.cloudfuze.com/wp-content/uploads/2022/05/Cloud-Cost-optimization-strategies-1024x616.png)
 
 Although cloud computing offers potential cost-saving benefits such as pay-as-you-go pricing models and reduced capital expenditure, it is still essential for companies to assess their specific requirements to evaluate the cost implications against the benefits and services offered in order to implement strategies to optimize cost effectively.
 
