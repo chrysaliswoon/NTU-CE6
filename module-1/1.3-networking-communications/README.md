@@ -29,6 +29,16 @@ UDP is another one of the major protocols that make up the internet protocol sui
 
 UDP is used for situations where some data loss is acceptable, like live video/audio, or where speed is a critical factor like online gaming.
 
+### HTTP (HyperText Transfer Protocol)
+
+![HTTP Protocol](https://i.imgur.com/ReFw6nN.png)
+
+At the heart of HTTP is a simple request-response system. The "requesting" computer, also known as the "client", asks another computer for some information. That computer, the "server" sends back a response with the information that was requested.
+
+Each time you visit a website, your browser is making an HTTP request to that website's server. The server responds with all the text, images, and styling information that your browser needs to render its pretty website.
+
+A URL, or Uniform Resource Locator, is essentially the address of another computer, or "server" on the internet. Part of the URL specifies how to reach the server, and part of it tells the server what information we want
+
 # Brief
 You will work individually.
 
@@ -871,3 +881,4 @@ Based on the Character ID of 1009718, we can retrieve comics associated with tha
 - https://www.postman.com/alex-postman-workspace/workspace/marvel-api-workspace/documentation/11320063-5d70d457-7b01-4587-8733-de2b5eef7083
 - Hash Generator: https://www.md5.cz/ 
 - https://www.freecodecamp.org/news/tcp-vs-udp/
+- https://www.freecodecamp.org/news/http-full-course/
