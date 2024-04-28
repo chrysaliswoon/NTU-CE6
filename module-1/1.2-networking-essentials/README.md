@@ -128,3 +128,10 @@ MSG SIZE  rcvd: 60
 - Name Server: DNS2.REGISTRAR-SERVERS.COM
 - DNSSEC: unsigned
 - URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+
+
+----------------------
+
+### Additional Notable Commands
+
+`netstat -a`: Shows open sockets on your device
