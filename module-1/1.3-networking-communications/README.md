@@ -759,7 +759,7 @@ For security purposes, I have replaced my own API key and Hash with XXXXXXXX.
 
 **URL(S):** 
 
-**Get Wolverine's Character ID:** https://gateway.marvel.com/v1/public/characters?apikey=49ad38851c732c5c9318e995fdb3e9f7&ts=1&hash=176950db2cf5f8c64200ff1452fa55e3&nameStartsWith=wolverine&limit=1
+**Get Wolverine's Character ID:** https://gateway.marvel.com/v1/public/characters?apikey=XXXXXXXX&ts=1&hash=XXXXXXXX&nameStartsWith=wolverine&limit=1
 
 ```
 {
