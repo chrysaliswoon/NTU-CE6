@@ -1,4 +1,34 @@
 
+# Introduction
+
+## Network Communication Protocols
+
+![Network Diagram](https://miro.medium.com/v2/resize:fit:697/1*ra9pvWJNv4CkRfbLmLZkOQ.png)
+
+## TCP vs UDP
+
+![TCP vs UDP](https://www.freecodecamp.org/news/content/images/2021/07/tcp-vs-udp-diagram.png)
+
+A good way to think about these differences is that TCP is like a conversation between two people. Person A asks person B to talk. Person B says sure, that's fine. Person A agrees and they both start speaking.
+
+UDP is more like a protester outside with a megaphone. Everyone who is paying attention to the protester should hear most of what they're saying. But there's no guarantee that everyone in the area will hear what the protester is saying, or that they're even listening.
+
+### TCP (Transmission Control Protocol)
+
+TCP is the most common networking protocol online. TCP is extremely reliable, and is used for everything from surfing the web (HTTP), sending emails (SMTP), and transferring files (FTP).
+
+TCP is used in situations where it's necessary that all data being sent by one device is received by another completely intact.
+
+For example, when you visit a website, TCP is used to guarantee that everything from the text, images, and code needed to render the page arrives. Without TCP, images or text could be missing, or arrive in the incorrect order, breaking the page.
+
+TCP is a connection-oriented protocol, meaning that it establishes a connection between two devices before transferring data, and maintains that connection throughout the transfer process.
+
+### UDP (User Datagram Protocol)
+
+UDP is another one of the major protocols that make up the internet protocol suite. UDP is less reliable than TCP, but is much simpler.
+
+UDP is used for situations where some data loss is acceptable, like live video/audio, or where speed is a critical factor like online gaming.
+
 # Brief
 You will work individually.
 
@@ -840,3 +870,4 @@ Based on the Character ID of 1009718, we can retrieve comics associated with tha
 
 - https://www.postman.com/alex-postman-workspace/workspace/marvel-api-workspace/documentation/11320063-5d70d457-7b01-4587-8733-de2b5eef7083
 - Hash Generator: https://www.md5.cz/ 
+- https://www.freecodecamp.org/news/tcp-vs-udp/
