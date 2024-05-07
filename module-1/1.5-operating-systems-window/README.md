@@ -6,7 +6,9 @@ Microsoft Windows, also called Windows and Windows OS, computer operating system
 
 The first version of Windows, released in 1985, was simply a GUI offered as an extension of Microsoft’s existing disk operating system, or MS-DOS.
 
-![Windows Timeline](https://cdn.ttgtmedia.com/rms/onlineimages/microsoft_windows_timeline_the_38_year_evolution-f_mobile.png)
+<p align="center">
+  <img src="https://cdn.ttgtmedia.com/rms/onlineimages/microsoft_windows_timeline_the_38_year_evolution-f_mobile.png" alt="Windows Timeline">
+</p>
 
 # Brief
 This assignment will be a research assignment.
@@ -26,7 +28,9 @@ Command Prompt (CMD) and PowerShell are both command-line interfaces available i
 
 PowerShell offers a more modern and powerful environment for system administration, scripting, and automation, whereas CMD remains more basic and limited in functionality.
 
-![Difference between CMD & Powershell](https://3ba1f5b2.rocketcdn.me/wp-content/uploads/2018/04/PowerShell-VERSUS-Command-Prompt.jpg)
+<p align="center">
+  <img src="https://3ba1f5b2.rocketcdn.me/wp-content/uploads/2018/04/PowerShell-VERSUS-Command-Prompt.jpg" alt="Difference between CMD & Powershell">
+</p>
 
 ### Command Prompt (CMD)
 
@@ -91,8 +95,9 @@ Some differences between Windows 10 and 11 are:
 
 - Cortana is separated from search in Windows 11 and is no longer integrated into the taskbar, while it is integrated into the taskbar in Windows 10.
 
-![Windows 10 versus Windows 11](https://cdn-dfknk.nitrocdn.com/BMGKLORDabDBCUPuWOjTkLVrPSWteURh/assets/images/optimized/rev-da88bc7/www.stellarinfo.co.in/blog/wp-content/uploads/2022/05/Comparison-Table-Windows-10-vs-Windows-11.jpg)
-
+<p align="center">
+  <img src="https://cdn-dfknk.nitrocdn.com/BMGKLORDabDBCUPuWOjTkLVrPSWteURh/assets/images/optimized/rev-da88bc7/www.stellarinfo.co.in/blog/wp-content/uploads/2022/05/Comparison-Table-Windows-10-vs-Windows-11.jpg" alt="Windows 10 versus Windows 11">
+</p>
 
 # References & Resources
 - https://www.avast.com/c-windows-registry
