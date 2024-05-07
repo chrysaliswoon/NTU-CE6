@@ -26,7 +26,7 @@ Command Prompt (CMD) and PowerShell are both command-line interfaces available i
 
 PowerShell offers a more modern and powerful environment for system administration, scripting, and automation, whereas CMD remains more basic and limited in functionality.
 
-![Difference between CMD & Powershell](https://teleforum.ethiotelecom.et/content/uploads/photos/2023/09/tele-forum_2c2d254054fef5d418a5b79dc8ac39f6.webp)
+![Difference between CMD & Powershell](https://3ba1f5b2.rocketcdn.me/wp-content/uploads/2018/04/PowerShell-VERSUS-Command-Prompt.jpg)
 
 ### Command Prompt (CMD)
 
