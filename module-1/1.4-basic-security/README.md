@@ -1,3 +1,43 @@
+![Network Security](https://t4.ftcdn.net/jpg/01/94/11/15/360_F_194111515_t9ivci8BeooUN5MYjTOyXnrGfpwjxMag.jpg)
+
+
+# Introduction
+Security consists of all the technologies and practices that keep computer systems and electronic data safe. Here are a few examples:
+
+- **Network security** - Protects computer networks like home Wi-Fi or a business’s network from threats
+- **Application security** - Ensures programs and apps repel hackers and keep users’ data private
+- **Cloud security** - Focuses on the cloud, where users and businesses store data and run apps online using remote data centers
+- **Information security** - Focuses on keeping sensitive data safe and private
+- **Endpoint security** - Secures devices like computers, phones or Internet of Things (IoT) gadgets to ensure they don’t become a way to get into other devices or data on a network.- 
+
+### Encoding, Hashing & Encryption
+1. Encoding
+
+    Encoding data is a process involving changing data into a new format using a scheme. Encoding is a reversible process; meaning that data can be encoded to a new format and decoded to its original format.
+
+    An example of encoding is: Base64
+
+2. Hashing
+
+    Hashing involves computing a fixed-length mathematical summary of data, hence, the input data can be any size.
+
+    An example of a hash function is: SHA512
+
+3. Encryption
+
+    Encryption is the process of securely encoding data in such a way that only authorized users with a key or password can decrypt the data to reveal the original. There are two basic types of encryption; symmetric key and public key. In symmetric key, the same key is used to encrypt and decrypt data, like a password. In public key encryption, one key is use to encrypt data and a different key is used to decrypt the data.
+
+    An example of encryption is: AES 256.
+
+![What is it](https://images.ctfassets.net/23aumh6u8s0i/32RHwyEORRBB8sbu5EZgdz/e706f821fe5e309fc410d7a56acee7d3/encoding-encryption-hasing-cheat-sheet.png)
+
+![Encoding, Hashing & Encryption](https://media.licdn.com/dms/image/D4E10AQEAGaFrHstJOA/image-shrink_800/0/1705395610396?e=2147483647&v=beta&t=M5HvQbuieEfW2orDsZWRYsYK7eer-PNQRz1AJfcsY1g)
+
+
+### Cyberattacks
+
+![Types of cyberattacks](https://media.licdn.com/dms/image/D4D12AQFykBYrIhQnJA/article-cover_image-shrink_720_1280/0/1694247895974?e=2147483647&v=beta&t=Rn7JwhjGdkAK8h5nihhPSkCo_Hxb3l1v0Uj3izp7-GM)
+
 # Brief
 Discuss and present a Security Vulnerability and Cyberattacks incident
 
