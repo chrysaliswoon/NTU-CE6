@@ -43,6 +43,10 @@ You may use any resources available online for research and create your own diff
 
 # Differences between Threads and Process
 
+<p align="center">
+  <img width="100%" height="100%" src="https://media.licdn.com/dms/image/C5612AQEt4pVfnSfXTg/article-cover_image-shrink_600_2000/0/1565684885214?e=2147483647&v=beta&t=qcctAVs4SB8lepjFsXRBpi-aN36MmQ557DdL-VBq7-4">
+</p>
+
 | Feature | Threads | Process |
 | ------------- | ------------- | -------------|
 | Definition  | Smallest unit of execution within a process	  | Independent unit of execution in the operating system |
@@ -58,6 +62,10 @@ You may use any resources available online for research and create your own diff
 
 
 # Differences between Multi-threading and Multi-processing
+
+<p align="center">
+  <img width="100%" height="100%" src="https://miro.medium.com/v2/resize:fit:763/1*QiaqQ0HLT4Iy0N608A5mVA.png">
+</p>
 
 | Feature | Multi-threading | Multi-processing |
 | ------------- | ------------- | -------------|
