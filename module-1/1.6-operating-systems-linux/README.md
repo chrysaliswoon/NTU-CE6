@@ -169,6 +169,8 @@ For example:
 
 18. What is the command you can run to install two packages - Docker and Ansible - on your VM?
 
+    `sudo apt update`
+    `sudo apt install docker.io ansible`
 
 **Additional Questions**
 1. What is the command that allows you to change the permissions of a folder “/tmp/app” with permissions “Owner - Read, Write, Execute, Group - Read, and Public - Read”? Refer to https://chmod-calculator.com/ 
