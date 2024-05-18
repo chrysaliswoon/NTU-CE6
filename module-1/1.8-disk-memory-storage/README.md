@@ -11,6 +11,8 @@ Choose one topic and discuss with your group the following:
 
 # Advantages and Disadvantages of Magnetic Storage Devices
 
+**Magnetic Storage Device** – one of the most popular types of storage used. It uses magnetization to manipulate and access data. The device is covered with a magnetic coating and stores data in the form of tracks, spots and sectors.
+
 | Advantages | Disadvantages |
 | ---------- | ------------- |
 | High storage capacity | Susceptible to physical damage |
