@@ -46,3 +46,32 @@ An overview of all of the assignments for NTU Cloud Engineering Course (Cohort 6
 | 41  | Secret Management | [Link]() |
 | 42  | Package Vulnerability Scan | [Link]() |
 | 43  | Application Logging - CloudWatch | [Link]() |
+
+
+# Additional Notes
+
+## Set-up Git using SSH
+
+### Step 1: Generate SSH token
+
+- [Generating a new SSH key and adding it to the ssh-agent](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent)
+
+    - ssh-keygen -t ed25519 -C "your_email@example.com" (Replace the email used in the example with your GitHub email address) 
+        - ssh-keygen = Generates a SSH key
+        - -t ed25519 = Algorithim to generate the key
+
+    - Paste the above in your terminal and hit "Enter" till you see the key's randomart image
+
+    - To check if you have your ssh key, in your terminal type `cd ~/.ssh`
+    - Start the ssh-agent in the background.
+        `eval "$(ssh-agent -s)"`
+    - Add your SSH private key to the ssh-agent.
+        `ssh-add ~/.ssh/(SSH ID)`
+
+- Add public key in GitHub
+    - Click on your profile in top-right
+    - Go to "SSH and GPG keys" located on the left-hand side
+    - Type `cat (SSH ID).pub`
+    - Copy the public SSH key and name it before adding it to GitHub
+
+- To check if it's added to Github, in your terminal type `ssh -T git@github.com`
