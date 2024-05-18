@@ -68,10 +68,13 @@ An overview of all of the assignments for NTU Cloud Engineering Course (Cohort 6
     - Add your SSH private key to the ssh-agent.
         `ssh-add ~/.ssh/(SSH ID)`
 
-- Add public key in GitHub
-    - Click on your profile in top-right
-    - Go to "SSH and GPG keys" located on the left-hand side
-    - Type `cat (SSH ID).pub`
-    - Copy the public SSH key and name it before adding it to GitHub
+### Step 2: Add public key in GitHub
+
+- Click on your profile in top-right
+- Go to "SSH and GPG keys" located on the left-hand side
+- Type `cat (SSH ID).pub`
+- Copy the public SSH key and name it before adding it to GitHub
+
+### Step 3: Check if SSH key is added
 
 - To check if it's added to Github, in your terminal type `ssh -T git@github.com`
