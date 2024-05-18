@@ -78,3 +78,6 @@ An overview of all of the assignments for NTU Cloud Engineering Course (Cohort 6
 ### Step 3: Check if SSH key is added
 
 - To check if it's added to Github, in your terminal type `ssh -T git@github.com`
+
+
+This is a new change
