@@ -74,7 +74,9 @@ The Angular application code, which is compiled into static files (HTML, CSS, Ja
 
 ## Architectural Diagram
 
-![](/assets/Personal_Website.png)
+<p align="center">
+  <img width="100%" height="100%" src="https://github.com/chrysaliswoon/NTU-CE6/blob/main/assets/Personal_Website.png?raw=true">
+</p>
 
 ## Considerations
 
