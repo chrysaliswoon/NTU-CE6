@@ -49,8 +49,8 @@ The objective of this assignment is to familiarize yourself with the features an
 
 # Creating an EC2
 
-![](/NTU-CE6/assets/ec2-1.png)
+![](https://github.com/chrysaliswoon/NTU-CE6/blob/main/assets/ec2-1.png)
 
-![](/NTU-CE6/assets/ec2-2.png)
+![](https://github.com/chrysaliswoon/NTU-CE6/blob/main/assets/ec2-2.png)
 
-![](/NTU-CE6/assets/ec2-3.png)
+![](https://github.com/chrysaliswoon/NTU-CE6/blob/main/assets/ec2-3.png)
