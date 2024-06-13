@@ -46,3 +46,11 @@ The objective of this assignment is to familiarize yourself with the features an
 - Follow the step under SSH client tab, look for the final line where the suggested command is provided e.g. ssh -i "DannyKeyPair.pem" ec2-user@ec2-54-255-148-9.ap-southeast-1.compute.amazonaws.com. Run this command from your local machine terminal/ powershell and be sure that you are in the file directory with your .pem file.
 
 - You should be able to access your created EC2 instance! Feel free to run any actions e.g. curl, netstat, install other packages etc.
+
+# Creating an EC2
+
+![](/NTU-CE6/assets/ec2-1.png)
+
+![](/NTU-CE6/assets/ec2-2.png)
+
+![](/NTU-CE6/assets/ec2-3.png)
