@@ -1,7 +1,5 @@
 # Brief
 
-Assignment:
-
 - Research the basics of containerization and Docker.
 - Create a code repository for the application on a version control system such as Git.
 - Create a simple "Hello World" application in a programming language of your choice.
