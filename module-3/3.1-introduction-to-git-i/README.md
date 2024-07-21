@@ -6,7 +6,7 @@
 - Create your ReadMe.md file as professional and beautiful as possible. (https://dillinger.io/)
 Push the changes you made to your repository.
 
-- Add your new repository link to blackboard. Dont forget to create the repository as public so that we can access it.
+- Add your new repository link to blackboard. Dont forget to createc the repository as public so that we can access it.
 
 # Overview of Github Commands & How Git Works
 
@@ -28,7 +28,7 @@ Push the changes you made to your repository.
 git init <directory>
 ```
 
-**Download a remote repo**
+**Download a remote repo and clone the forked repository to your local machine**
 
 ```
 git clone <url>
@@ -74,7 +74,7 @@ git branch
 git branch <new-branch>
 ```
 
-**Switch to a branch & update the working directory**
+**Switch to a branch & update the working directory by checking out your branch locally**
 
 ```
 git checkout <branch>
