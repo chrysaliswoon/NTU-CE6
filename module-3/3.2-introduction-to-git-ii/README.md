@@ -13,6 +13,7 @@ Explain it on the readme file.
 
 - Push the changes you made to your repository. with different commit.
 
+![Link to Class Live Demo & Branch](https://github.com/del-skillsunion/ce6-git-1/tree/chrysalis)
 
 # GitHub Authentication
 
