@@ -1,0 +1,14 @@
+{
+  "name": "3.3-deploying-cloud-native-app",
+  "version": "1.0.0",
+  "description": "- Create your new repository with the first node application on it. - Implement all have you learnt on Git module (git init, git commit, git add, etc) and push all the code to your new repository. - Submit the repository link on BlackBoard.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
