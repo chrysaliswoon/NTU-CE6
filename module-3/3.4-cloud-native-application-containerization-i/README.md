@@ -12,3 +12,16 @@ Containerization is a technology that allows you to package and run applications
 
 Docker is a popular platform that simplifies the process of containerization. Docker allows you to create, deploy, and run containers using Docker images.
 
+## Docker Build & Run
+
+To build the docker image:
+
+```sh
+docker build -t hello-world-app .
+```
+
+To run the docker image:
+
+```sh
+docker run hello-world-app
+```
