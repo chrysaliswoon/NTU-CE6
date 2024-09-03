@@ -1,0 +1,14 @@
+{
+  "name": "3.5-cloud-native-application-containerization-ii",
+  "version": "1.0.0",
+  "description": "- Create a new repository - Add sample code to your repository including the dockerfile on it - Update your repository Readme.md file to have step-by-step how to create an image until it will be deployed to AWS ECR",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
