@@ -1,0 +1,14 @@
+{
+  "name": "3.11-continuous-deployment-container",
+  "version": "1.0.0",
+  "description": "The objective of this assignment is to set up a continuous integration and continuous deployment (CI/CD) pipeline for a Node.js application that is deployed on AWS using Docker containers.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.0"
+  }
+}
